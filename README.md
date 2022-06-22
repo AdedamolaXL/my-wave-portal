@@ -1,4 +1,4 @@
-A social media Dapp built on Hardhat, OpenZeppelin using Solidity and React
+A social media Dapp built on Hardhat using Solidity and React
 
 # Basic Sample Hardhat Project
 
